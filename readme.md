@@ -1,1 +1,1 @@
-This entire this is basically a stupid shite post for a "party".
+This entire repo is basically a stupid shitepost for a "party".
